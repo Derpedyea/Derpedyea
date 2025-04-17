@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Derpedyea
+- 👀 I’m interested in Web Development
+- 🌱 I’m currently learning Next JS
